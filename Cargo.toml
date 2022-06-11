@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "crates/logic",
+    "crates/solver_lib",
+    "crates/dictionary"
+]
